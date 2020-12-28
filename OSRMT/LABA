@@ -1,0 +1,1061 @@
+REFERENCE,110,To be reviewed,Feature to be reviewed
+REFERENCE,16,Not required,Feature not required for this release
+REFERENCE,15,Important,Feature implemented this release if possible
+REFERENCE,14,Must have,Feature must be implemented this release
+REFERENCE,208,High,High priority
+REFERENCE,209,Medium,Medium priority
+REFERENCE,210,Low,Low priority
+REFERENCE,205,High,High priority
+REFERENCE,206,Medium,Medium priority
+REFERENCE,207,Low,Low priority
+REFERENCE,211,High,High priority
+REFERENCE,212,Medium,Medium priority
+REFERENCE,213,Low,Low priority
+REFERENCE,214,High,High priority
+REFERENCE,215,Medium,Medium priority
+REFERENCE,216,Low,Low priority
+REFERENCE,2,ADMIN,System administrator with full application privileges
+REFERENCE,6957209,Developer,
+REFERENCE,224,Marketing,Marketing Manager
+REFERENCE,3,ROOT,System administrator with full application and system privileges
+REFERENCE,6,Product Management,Product Management - Manage features~ view requirements
+REFERENCE,225,Configuration Manager,Configuration Management - Baseline
+REFERENCE,424,ApplicationSecurityUserForm,
+REFERENCE,1432,Change Control View,
+REFERENCE,230,Columns: Artifact History,Artifact History Columns
+REFERENCE,229,Columns: Artifact Relationship,Artifact Relationship Columns
+REFERENCE,145,Columns: Artifact Search,
+REFERENCE,972,Columns: Artifact Step,
+REFERENCE,1160,Columns: Baseline,
+REFERENCE,1462,Columns: Change Control View,
+REFERENCE,328,Columns: Reference Group,
+REFERENCE,368,Columns: Reference Search,
+REFERENCE,280,Columns: Report List,Report Wizard Select Report Report List
+REFERENCE,245,Columns: Traceability,Traceability matrix
+REFERENCE,442,Columns: User Application Security,
+REFERENCE,5340,Columns: User Group Project Search,
+REFERENCE,1569,Columns: User Group Search,
+REFERENCE,305,Columns: User Search,
+REFERENCE,384,Form: Application Control,
+REFERENCE,1232,Form: Application Custom Control,
+REFERENCE,1574,Form: Application View,
+REFERENCE,134,Form: Artifact,Artifact
+REFERENCE,911,Form: Artifact List Export,
+REFERENCE,1010,Form: Artifact List Import,
+REFERENCE,1136,Form: Baseline,
+REFERENCE,1434,Form: Change Control,
+REFERENCE,1186,Form: Change Impact,
+REFERENCE,420,Form: Change Password,
+REFERENCE,906,Form: Filter artifact list,
+REFERENCE,1098,Form: Help About,
+REFERENCE,7,Form: Login,Login
+REFERENCE,37,Form: Main,Requirement Manager
+REFERENCE,204,Form: Open Product,Open Product
+REFERENCE,1014,Form: Position Security,
+REFERENCE,348,Form: Reference,
+REFERENCE,5,Form: Report,
+REFERENCE,5558,Form: Report Parameters,
+REFERENCE,1586,Form: System Options,
+REFERENCE,1521,Form: Trace Tree Criteria,
+REFERENCE,304,Form: User,
+REFERENCE,1563,Form: User Group,
+REFERENCE,5335,Form: User Product,
+REFERENCE,1357,Html Form: Artifact,
+REFERENCE,1246,Html Form: Issue,
+REFERENCE,1436,Menu: Change Control,
+REFERENCE,167,Menu: Main,Requirement Manager Main Menu
+REFERENCE,1438,Menu: Traceability,
+REFERENCE,417,Menu: User Admin,
+REFERENCE,282,Record Parameter,
+REFERENCE,1435,Toolbar: Change Control,
+REFERENCE,201,Toolbar: Main,Requirement Manager Toolbar
+REFERENCE,1437,Toolbar: Traceability,
+REFERENCE,1433,Traceability View,
+REFERENCE,8,Maintain Artifacts,View and edit artifacts
+REFERENCE,10,Add artifact,Add artifact
+REFERENCE,1455,Change Control - Close,
+REFERENCE,1456,Change Control - Edit,
+REFERENCE,1457,Change Control - Find,
+REFERENCE,1452,Change Control - New,
+REFERENCE,1453,Change Control - Print,
+REFERENCE,1454,Change Control - Refresh,
+REFERENCE,9,Create baseline,Create baseline
+REFERENCE,5465,Export branch,
+REFERENCE,11,Modify artifact,Modify artifact
+REFERENCE,1011,Req Mgr - Admin Positions,
+REFERENCE,5339,Req Mgr - Admin Projects,
+REFERENCE,365,Req Mgr - Admin Reference,
+REFERENCE,1561,Req Mgr - Admin User Groups,
+REFERENCE,290,Req Mgr - Admin Users,
+REFERENCE,471,Req Mgr - Change Password,
+REFERENCE,255,Req Mgr - Edit Artifact,
+REFERENCE,256,Req Mgr - Edit Copy,
+REFERENCE,257,Req Mgr - Edit Cut,
+REFERENCE,258,Req Mgr - Edit Delete,
+REFERENCE,259,Req Mgr - Edit Find,
+REFERENCE,260,Req Mgr - Edit Paste,
+REFERENCE,261,Req Mgr - Edit Replace,
+REFERENCE,249,Req Mgr - File Close,Requirement Manager - File Close
+REFERENCE,251,Req Mgr - File Exit,Requirement Manager - File Exit
+REFERENCE,910,Req Mgr - File Export,
+REFERENCE,247,Req Mgr - File New,Requirement Manager - File New
+REFERENCE,284,Req Mgr - File New Product,
+REFERENCE,248,Req Mgr - File Open,Requirement Manager - File Open
+REFERENCE,253,Req Mgr - File Print,
+REFERENCE,250,Req Mgr - File Recent,Requirement Manager - File Recent
+REFERENCE,254,Req Mgr - File Refresh,
+REFERENCE,1103,Req Mgr - Help About,
+REFERENCE,266,Req Mgr - Help OSRMT,
+REFERENCE,468,Req Mgr - Help System Log,
+REFERENCE,267,Req Mgr - Help Updates,
+REFERENCE,997,Req Mgr - Import,
+REFERENCE,1579,Req mgr - Move Down,
+REFERENCE,1578,Req mgr - Move Up,
+REFERENCE,1137,Req Mgr - System Baseline,
+REFERENCE,995,Req Mgr - System Debug,
+REFERENCE,478,Req Mgr - System Export,
+REFERENCE,287,Req Mgr - System Forms,
+REFERENCE,480,Req Mgr - System Import,
+REFERENCE,1637,Req Mgr - System New Artifact,
+REFERENCE,5363,Req Mgr - System New Artifact Field,
+REFERENCE,1585,Req mgr - System Options,
+REFERENCE,364,Req Mgr - System Reference,
+REFERENCE,262,Req Mgr - Tools Customize,
+REFERENCE,903,Req mgr - Tools Filter,
+REFERENCE,1183,Req Mgr - Tools Impact,
+REFERENCE,263,Req Mgr - Tools Options,
+REFERENCE,5352,Req Mgr - Tools Report Outline,
+REFERENCE,276,Req Mgr - Tools Reports,
+REFERENCE,264,Req Mgr - Tools Spelling,
+REFERENCE,265,Req Mgr - Tools Trace,
+REFERENCE,1522,Trace - Edit Criteria,
+REFERENCE,1540,Trace - Edit Untrace,
+REFERENCE,1529,Trace - File Close,
+REFERENCE,1634,Trace - File Open Product,
+REFERENCE,1530,Trace - File Print,
+REFERENCE,1528,Trace - File Refresh,
+REFERENCE,1531,Trace - Left to Right,
+REFERENCE,1575,Trace - Right to Left,
+REFERENCE,1693,Trace branch,
+REFERENCE,416,User Admin - Password,
+REFERENCE,440,User Admin - Security,
+REFERENCE,12,View artifact,View artifact
+REFERENCE,1428,View change control,
+REFERENCE,1429,View traceability,
+REFERENCE,1597,Artifact list display all descendents,When selecting an artifact in the tree the artifact list will either be immediate children (this setting = 0) or all descendents (this setting = 1)
+REFERENCE,5552,Baseline Storage,Directory where baselined files are stored
+REFERENCE,1584,Display artifact long name,Where applicable display the artifact type (initial)~ number and name
+REFERENCE,1689,Display the immediate children only when selecting a node in the artifact tree,
+REFERENCE,1200,LDAP Initial Context Factory,
+REFERENCE,1201,LDAP Provider URL,
+REFERENCE,1202,LDAP Security Authentication,
+REFERENCE,1203,LDAP Security Protocol,
+REFERENCE,1134,Long date time format,
+REFERENCE,1204,OSRMT Authentication Method,Authentication method: Database|LDAP
+REFERENCE,5331,Override username display format with firstname space last name,
+REFERENCE,5337,Product user group security,
+REFERENCE,5348,Restrict product access to user groups,
+REFERENCE,5353,Script executed to determine the reoprt outline,
+REFERENCE,1135,Short date formats,
+REFERENCE,1188,Storage directory,Relative to server (or client if no server) working directory
+REFERENCE,6094029,Example,
+REFERENCE,2002799,Example 2,
+REFERENCE,7059696,Laba,
+REFERENCE,3181570,Soft,
+REFERENCE,4985966,Software,
+REFERENCE,17,Submitted,Submitted
+REFERENCE,18,Approved,Approved
+REFERENCE,19,Completed,Completed
+REFERENCE,81,Unassigned,Unassigned
+REFERENCE,82,Assigned,Assigned
+REFERENCE,83,Completed,Completed
+REFERENCE,105,Submitted,Submitted
+REFERENCE,104,Approved,Approved
+REFERENCE,103,Completed,Completed
+REFERENCE,217,Unassigned,Unassigned
+REFERENCE,218,Assigned,Assigned
+REFERENCE,219,Unit tested,Unit tested
+REFERENCE,220,Completed,Completed
+REFERENCE,221,Unassigned,Unassigned
+REFERENCE,222,Assigned,Assigned
+REFERENCE,223,Completed,Completed
+REFERENCE,327,Add/update,Add/Update
+REFERENCE,325,Display Only,Modify the display only
+REFERENCE,326,Full Access,Add/Update or delete
+REFERENCE,324,No Access,No direct access - use appropriate tools/applications
+REFERENCE,347,Artifact Reference,
+REFERENCE,343,Framework,Core workings of the system
+REFERENCE,344,Input/Output,
+REFERENCE,345,Requirements Management,
+REFERENCE,342,Security,Security related reference
+REFERENCE,346,System,
+REFERENCE,472,1.0,Planned version for this feature
+REFERENCE,907,1.1,Next version
+REFERENCE,1167,2.0,
+REFERENCE,474,1.0,Version for this design
+REFERENCE,938,1.1,
+REFERENCE,473,1.0,Version requirement planned for
+REFERENCE,935,1.1,Version requirement planned for
+REFERENCE,475,1.0,Version implemented in
+REFERENCE,936,1.1,
+REFERENCE,476,1.0,Version tested in
+REFERENCE,937,1.1,
+REFERENCE,25,High,High complexity
+REFERENCE,26,Medium,Medium Complexity
+REFERENCE,27,Low,Low Complexity
+REFERENCE,121,Date,
+REFERENCE,119,Double,
+REFERENCE,118,Integer,
+REFERENCE,120,String,
+REFERENCE,9994122,Destination indicators,
+REFERENCE,6025838,Use case,
+REFERENCE,8126341,User interface,
+REFERENCE,129,Feature,
+REFERENCE,131,Requirement,
+REFERENCE,130,Design,
+REFERENCE,132,Implementation,
+REFERENCE,133,TestCase,
+REFERENCE,9368132,All change requests,
+REFERENCE,135,Feature,FeatureForm
+REFERENCE,168,Full Main Menu,All menu items
+REFERENCE,202,Full Toolbar,All toolbar buttons
+REFERENCE,466,Marketing,
+REFERENCE,1458,My submissions,
+REFERENCE,5559,Report Parameter - Product List,
+REFERENCE,1247,Suggestion view,
+REFERENCE,1554,My group assignments,
+REFERENCE,138,Requirement,RequirementForm
+REFERENCE,136,Design,DesignForm
+REFERENCE,1459,New change requests,
+REFERENCE,137,Implementation,ImplementationForm
+REFERENCE,139,Test Case,TestCaseForm
+REFERENCE,226,Attached File,Attached file stored on the server
+REFERENCE,227,Hyperlink,Full hyperlink
+REFERENCE,273,Not Traced,Artifacts not traced
+REFERENCE,272,Traceability Matrix,Traced and untraced artifact matrix
+REFERENCE,271,Traced,Traced artifacts
+REFERENCE,1601,All Artifact Details,
+REFERENCE,283,Artifact Detail,Artifact Detail
+REFERENCE,278,Artifact Summary,Artifact Summary
+REFERENCE,1099,About OSRMT,
+REFERENCE,1570,Add new user group,
+REFERENCE,992,Add reference,Adding a new reference item
+REFERENCE,4,Add report,Adding a new custom report to the list of system repots
+REFERENCE,1049,Add security access,Application security add security access
+REFERENCE,1066,Application Control,Application Control
+REFERENCE,1067,Application Security,Application Security
+REFERENCE,1082,Attachment properties,
+REFERENCE,1460,Change control,
+REFERENCE,1185,Change Impact,
+REFERENCE,1050,Change Password,Change Password
+REFERENCE,1640,Copy fields and security from,
+REFERENCE,1062,Create New User,New user
+REFERENCE,1245,Duplicate artifact forms,
+REFERENCE,1242,Duplicate position security,
+REFERENCE,912,Export Artifacts (XML),
+REFERENCE,905,Filter artifact list,
+REFERENCE,489,Generate Report,Generate a pdf~ html~ viewer or printed report
+REFERENCE,1009,Import Artifacts (XML),
+REFERENCE,1053,Import system reference,Import system reference data
+REFERENCE,1051,Log On to OSRMT,Log On to OSRMT
+REFERENCE,1639,New Artifact,
+REFERENCE,1035,New Product,Form title to create a new product
+REFERENCE,1038,Open Product,
+REFERENCE,1070,Position maintenance,Position maintenance
+REFERENCE,1075,Search,Search artifacts
+REFERENCE,991,Select a reference item,Select a reference item from the list to edit
+REFERENCE,990,Select a reference table,Select a reference group from the reference group table
+REFERENCE,5365,Select artifact form to edit,
+REFERENCE,5366,Select field template,
+REFERENCE,5334,Select project,
+REFERENCE,1568,Select user,
+REFERENCE,1567,Select user group,
+REFERENCE,1238,Shared custom control,Shared custom control
+REFERENCE,1139,System Baseline,
+REFERENCE,1064,System form,System form
+REFERENCE,1078,System Log,
+REFERENCE,1588,System option maintenance,
+REFERENCE,1633,Trace to Product,
+REFERENCE,1523,Trace tree criteria,
+REFERENCE,1065,Traceability matrix,Traceability matrix
+REFERENCE,1048,User Application Security,User application security management
+REFERENCE,1566,User group maintenance,
+REFERENCE,1069,User maintenance,User maintenance
+REFERENCE,1090,< Back,
+REFERENCE,1025,Add Row,Add new row
+REFERENCE,1055,Add View,Add a new system control view
+REFERENCE,919,Apply,Apply button to save changes without closing the form
+REFERENCE,1096,Assign forms...,
+REFERENCE,1094,Attach file,
+REFERENCE,917,Cancel,Cancel button to close form without saving changes
+REFERENCE,1088,Cancel,
+REFERENCE,1097,Change password...,
+REFERENCE,920,Clear,Clear button to clear form controls of selections
+REFERENCE,918,Close,Close button to close form without changes
+REFERENCE,1241,Copy,
+REFERENCE,1057,Default,Default system view
+REFERENCE,1036,Delete,Delete an item
+REFERENCE,1023,Delete...,Delete an item after confirmation
+REFERENCE,1240,Description,
+REFERENCE,1691,Edit,
+REFERENCE,1083,File name,
+REFERENCE,1091,Finish,
+REFERENCE,1635,Form Views,Application form views
+REFERENCE,1239,HTML,
+REFERENCE,1093,Insert file,
+REFERENCE,1095,Insert hyperlink,
+REFERENCE,1105,Last Updated,
+REFERENCE,1058,Move Bottom,Move item to the bottom of the list
+REFERENCE,1032,Move Down,Move target down in the list
+REFERENCE,1059,Move Top,Move item to the top of the list
+REFERENCE,1031,Move Up,Move target up in the list
+REFERENCE,1030,New,Menu item New
+REFERENCE,1061,New separator,New separator for form controls
+REFERENCE,1060,New tab,New tab for form controls
+REFERENCE,1029,New...,Menu or button indicating workflow to create a new item
+REFERENCE,1089,Next >,
+REFERENCE,916,OK,OK button to save changes and close form
+REFERENCE,1028,Open...,Menu or button indicating workflow to open an item
+REFERENCE,1187,PDF...,
+REFERENCE,1033,Preview,Print preview
+REFERENCE,1086,Print...,
+REFERENCE,1042,Product,Artifact product
+REFERENCE,1087,Properties...,
+REFERENCE,1598,Refresh,
+REFERENCE,1026,Remove Row,Remove row from the list
+REFERENCE,1244,Replace all forms and controls,
+REFERENCE,1243,Replace all security settings,
+REFERENCE,1037,Search any part of artifacts,Search all or part of any part of artifacts: <artifact name>
+REFERENCE,1506,Search any part of issues,Search all or part of any part of issues
+REFERENCE,1072,Select application,select application from list
+REFERENCE,1071,Select position,Select position from list
+REFERENCE,1073,Select user,Select user from list
+REFERENCE,1085,Source,
+REFERENCE,1084,Storage directory,
+REFERENCE,1692,Trace branch,
+REFERENCE,1047,View,Application control view
+REFERENCE,1175,Apply changes to,Apply changes to <control>
+REFERENCE,3705,artifacts,
+REFERENCE,1189,artifacts found,
+REFERENCE,5556,Baseline storage directory,
+REFERENCE,1405,Client,
+REFERENCE,3704,Create dependency from,
+REFERENCE,1079,Custom Control not found for Application Control,
+REFERENCE,1461,Custom views,
+REFERENCE,1404,Database,
+REFERENCE,1199,Dependent on:,Matrix artifact list items dependent upon column item
+REFERENCE,5350,Do you want to save the changes?,
+REFERENCE,1063,Duplicate user name,Duplicate user name
+REFERENCE,1056,Duplicate value found,Duplicate value found
+REFERENCE,1052,Empty OSRMT schema located. Import and initialize schema?,Connected to a valid but empty database.  Prompt to import the schema data
+REFERENCE,1040,Error: Null Pointer exception,Unexpected null value found
+REFERENCE,486,Error: Switch statement failed,Framework code failed to account for a parameter in a switch or in if/else/if code - report Bug
+REFERENCE,1020,Error: Value is not a Double,Value is not a Double: <value>
+REFERENCE,1019,Exporting of artifacts completed,<nbr> artifacts exported to file location: <filepath>
+REFERENCE,5367,Field has been added,
+REFERENCE,5463,fields added,<n> fields added
+REFERENCE,1018,Importing of artifacts completed,<nbr> artifacts imported
+REFERENCE,1077,Invalid password,
+REFERENCE,1076,Invalid user name,
+REFERENCE,1045,list is filtered,<artifact type> list is filtered
+REFERENCE,3703,Move,Move artifact in tree
+REFERENCE,1074,No relationships to the top level allowed,No relationships to the top level allowed
+REFERENCE,5554,Number of artifacts,
+REFERENCE,3760,on,create dependency 'on'
+REFERENCE,1015,Please check : values are not comparable,
+REFERENCE,1016,Please check: value is not an integer,Value is not an integer: <value>
+REFERENCE,1027,Please enter a new artifact name,Value is not a GregorianDate
+REFERENCE,1638,Please enter a new artifact name,Enter the name for the new artifact
+REFERENCE,1081,Please enter data in all mandatory field,
+REFERENCE,5466,Please export artifacts,
+REFERENCE,1039,Please open a product,A product must be open
+REFERENCE,1043,Please open a product to start,Open a product to start adding content
+REFERENCE,5557,Please press YES to start the baseline process,
+REFERENCE,1560,Please remove trace,
+REFERENCE,1092,Please save artifact before attaching documents,
+REFERENCE,1041,Please select an artifact,An artifact must be selected
+REFERENCE,5464,Please select artifact types to expport,
+REFERENCE,1044,Relationship traced to target,Relationship between two artifacts has been created
+REFERENCE,1024,Selected artifact is invalid. Please check,Invalid selection for artifact
+REFERENCE,1406,Server,
+REFERENCE,5555,Storage space required,
+REFERENCE,1559,Trace,
+REFERENCE,3761,under,move artifacts 'under'
+REFERENCE,487,Value not found in the list,Framework code failed to find a value in a list - report Bug
+REFERENCE,1102,Version,
+REFERENCE,1021,Warning:  Line has more parsed data than columns. Please check,Line has more data parsed than column headers: <line nbr>
+REFERENCE,490,Warning: Application access denied,User has no access to the application controls - Grant access via application security
+REFERENCE,1046,Warning: Circular tree reference;Skipping,Requirement tree has a circular relationship
+REFERENCE,491,Warning: Expected value not found,Expected value not found - review Configuration or report Bug
+REFERENCE,1080,warning: Failed to create control,
+REFERENCE,1022,Warning: Ignoring invalid column name,Column header name did not match any reference entries for group ModelColumn
+REFERENCE,1017,Warning: No header fields found,unable to extract the header fields from the first line of the file
+REFERENCE,488,Warning: Resource file not found,Resource not found for given path - compare path with resources.jar
+REFERENCE,1182,Warning: Unexpected multiple values found,
+REFERENCE,1054,Warning: You may not remove a system view,You may not remove a system view
+REFERENCE,977,Business Requirement,
+REFERENCE,979,Data Requirement,
+REFERENCE,978,System Requirement,
+REFERENCE,976,Use Case,
+REFERENCE,988,Requirement Detail,
+REFERENCE,989,Use Case Alt Flow,
+REFERENCE,981,Use Case Main Flow,
+REFERENCE,1178,Dependent,
+REFERENCE,1179,Related,
+REFERENCE,1557,1.0,
+REFERENCE,1367,Accepted,
+REFERENCE,1368,Approved,
+REFERENCE,1369,Coded,
+REFERENCE,1377,Completed,
+REFERENCE,1372,Deployed,
+REFERENCE,1553,Designed,
+REFERENCE,1376,Documented,
+REFERENCE,1374,Installed,
+REFERENCE,1365,New,
+REFERENCE,1552,Rejected,
+REFERENCE,1370,Reviewed,
+REFERENCE,1366,Submitted,
+REFERENCE,1371,Tested,
+REFERENCE,1375,Validated,
+REFERENCE,1373,Verified,
+REFERENCE,1383,Administrator,
+REFERENCE,1378,Business analyst,
+REFERENCE,1379,Change Control Board,
+REFERENCE,1381,Developer,
+REFERENCE,1384,Documenters,
+REFERENCE,1380,Product Manager,
+REFERENCE,1385,Quality Regulator,
+REFERENCE,1382,Quality testers,
+REFERENCE,1396,High,
+REFERENCE,1388,Immediate,
+REFERENCE,1397,Low,
+REFERENCE,1391,Critical,
+REFERENCE,1400,High,
+REFERENCE,1401,Marginal,
+REFERENCE,1402,Negligible,
+REFERENCE,1387,Frequent,
+REFERENCE,1395,Improbable,
+REFERENCE,1393,Occasional,
+REFERENCE,1394,Remote,
+REFERENCE,1398,Infrequently,
+REFERENCE,1399,Not reproducible,
+REFERENCE,1389,Reproducible,
+REFERENCE,1392,Not reproducible,
+REFERENCE,1386,Resolved,
+REFERENCE,1390,Code Change,
+REFERENCE,1403,Configuration,
+REFERENCE,1631,Verdana-Bold-16,
+APPLICATIONCONTROL,2,Username:,
+APPLICATIONCONTROL,4,Password:,
+APPLICATIONCONTROL,5,Feature #,
+APPLICATIONCONTROL,6,Name,
+APPLICATIONCONTROL,7,Priority,
+APPLICATIONCONTROL,8,Status,
+APPLICATIONCONTROL,9,Version,
+APPLICATIONCONTROL,10,Description,
+APPLICATIONCONTROL,26,Design:,Design module name
+APPLICATIONCONTROL,27,Priority:,Priority to complete
+APPLICATIONCONTROL,28,Status:,Artifact status
+APPLICATIONCONTROL,30,Description:,Full description of the artifact
+APPLICATIONCONTROL,35,Design,
+APPLICATIONCONTROL,36,Version:,Version artifact appeared
+APPLICATIONCONTROL,38,Feature Nbr:,Sequential identifier for feature
+APPLICATIONCONTROL,41,Feature:,Feature name or title
+APPLICATIONCONTROL,43,Priority:,Priority to complete
+APPLICATIONCONTROL,45,Status:,Artifact status
+APPLICATIONCONTROL,47,Description:,Full description of the artifact
+APPLICATIONCONTROL,49,Source code:,Source code file name
+APPLICATIONCONTROL,51,Status:,Artifact status
+APPLICATIONCONTROL,53,Description:,Full description of the artifact
+APPLICATIONCONTROL,59,Requirement:,Requirement title
+APPLICATIONCONTROL,61,Priority:,Priority to complete
+APPLICATIONCONTROL,63,Status:,Artifact status
+APPLICATIONCONTROL,65,Description:,Full description of the artifact
+APPLICATIONCONTROL,67,Test Case:,Test case heading
+APPLICATIONCONTROL,69,Purpose:,Purpose of this test case
+APPLICATIONCONTROL,71,Notes:,Notes~ questions and comments on the test case
+APPLICATIONCONTROL,72,Feature,
+APPLICATIONCONTROL,73,Implementation,
+APPLICATIONCONTROL,74,Requirement,
+APPLICATIONCONTROL,75,Test Case,
+APPLICATIONCONTROL,77,Version:,Version artifact appeared
+APPLICATIONCONTROL,79,Version:,Version artifact appeared
+APPLICATIONCONTROL,87,Effort:,Estimated effort in FTE hours to implement the feature
+APPLICATIONCONTROL,89,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,90,Dependencies,
+APPLICATIONCONTROL,95,Attachments:,Right click to upload and attach files or create a hyperlink
+APPLICATIONCONTROL,97,Complexity:,Complexity to implement this feature
+APPLICATIONCONTROL,112,Req #,
+APPLICATIONCONTROL,113,Name,
+APPLICATIONCONTROL,114,Priority,
+APPLICATIONCONTROL,115,Status,
+APPLICATIONCONTROL,116,Version,
+APPLICATIONCONTROL,117,Description,
+APPLICATIONCONTROL,118,Module,
+APPLICATIONCONTROL,119,Priority,
+APPLICATIONCONTROL,120,Status,
+APPLICATIONCONTROL,121,Version,
+APPLICATIONCONTROL,122,Description,
+APPLICATIONCONTROL,123,Source,
+APPLICATIONCONTROL,124,Priority,
+APPLICATIONCONTROL,125,Status,
+APPLICATIONCONTROL,126,Version,
+APPLICATIONCONTROL,127,Description,
+APPLICATIONCONTROL,128,Test Case #,
+APPLICATIONCONTROL,129,Test Case,
+APPLICATIONCONTROL,130,Priority,
+APPLICATIONCONTROL,131,Status,
+APPLICATIONCONTROL,132,Description,
+APPLICATIONCONTROL,133,File,
+APPLICATIONCONTROL,134,New,
+APPLICATIONCONTROL,135,Refresh,
+APPLICATIONCONTROL,136,Close,
+APPLICATIONCONTROL,137,Exit,
+APPLICATIONCONTROL,138,Open...,
+APPLICATIONCONTROL,139,Print...,
+APPLICATIONCONTROL,140,Edit,
+APPLICATIONCONTROL,141,Copy,
+APPLICATIONCONTROL,142,Cut,
+APPLICATIONCONTROL,143,Delete,
+APPLICATIONCONTROL,144,Search...,
+APPLICATIONCONTROL,145,Paste,
+APPLICATIONCONTROL,146,Replace...,
+APPLICATIONCONTROL,147,Tools,
+APPLICATIONCONTROL,148,Customize...,
+APPLICATIONCONTROL,149,Options...,
+APPLICATIONCONTROL,150,Spelling,
+APPLICATIONCONTROL,151,Help,
+APPLICATIONCONTROL,152,OSRMT Help,
+APPLICATIONCONTROL,153,Check for updates,
+APPLICATIONCONTROL,154,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,155,Dependencies,
+APPLICATIONCONTROL,156,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,157,Dependencies,
+APPLICATIONCONTROL,160,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,161,Dependencies,
+APPLICATIONCONTROL,162,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,163,Dependencies,
+APPLICATIONCONTROL,165,New,
+APPLICATIONCONTROL,166,Open,
+APPLICATIONCONTROL,167,Report,
+APPLICATIONCONTROL,169,Refresh,
+APPLICATIONCONTROL,170,Cut,
+APPLICATIONCONTROL,171,Copy,
+APPLICATIONCONTROL,172,Paste,
+APPLICATIONCONTROL,174,Delete,
+APPLICATIONCONTROL,176,Modification History:,History of all changes to this record
+APPLICATIONCONTROL,177,History,
+APPLICATIONCONTROL,178,Type,
+APPLICATIONCONTROL,179,Name,
+APPLICATIONCONTROL,180,Description,
+APPLICATIONCONTROL,181,User,
+APPLICATIONCONTROL,182,Name,
+APPLICATIONCONTROL,183,Status,
+APPLICATIONCONTROL,184,Priority,
+APPLICATIONCONTROL,187,Archived,
+APPLICATIONCONTROL,191,Created By:,User who created this record
+APPLICATIONCONTROL,193,Created:,Date this record was created
+APPLICATIONCONTROL,195,Last Update By:,User who last updated this record
+APPLICATIONCONTROL,197,Updated:,Date this record was last updated
+APPLICATIONCONTROL,199,Artifact...,
+APPLICATIONCONTROL,200,Trace...,
+APPLICATIONCONTROL,204,Recent,
+APPLICATIONCONTROL,206,Trace From,
+APPLICATIONCONTROL,208,Trace Type,
+APPLICATIONCONTROL,210,Trace To,
+APPLICATIONCONTROL,212,Apply,
+APPLICATIONCONTROL,213,Reports...,
+APPLICATIONCONTROL,214,Report,
+APPLICATIONCONTROL,215,Product,
+APPLICATIONCONTROL,216,New Product...,
+APPLICATIONCONTROL,219,System,
+APPLICATIONCONTROL,220,Forms...,
+APPLICATIONCONTROL,221,,
+APPLICATIONCONTROL,222,Print...,
+APPLICATIONCONTROL,223,Edit,
+APPLICATIONCONTROL,224,Copy,
+APPLICATIONCONTROL,225,System,
+APPLICATIONCONTROL,226,Forms...,
+APPLICATIONCONTROL,227,ControlDescription:,Status bar text for control
+APPLICATIONCONTROL,228,Cut,
+APPLICATIONCONTROL,229,Delete,
+APPLICATIONCONTROL,230,Replace...,
+APPLICATIONCONTROL,231,Customize...,
+APPLICATIONCONTROL,232,Scripting,
+APPLICATIONCONTROL,233,Created By:,User who created this record
+APPLICATIONCONTROL,234,Reference...,
+APPLICATIONCONTROL,235,Position:,Users position
+APPLICATIONCONTROL,236,Help,
+APPLICATIONCONTROL,237,Updated:,Date this record was last updated
+APPLICATIONCONTROL,238,General,
+APPLICATIONCONTROL,239,Technical,
+APPLICATIONCONTROL,240,Technical,
+APPLICATIONCONTROL,241,File,
+APPLICATIONCONTROL,242,Artifact...,
+APPLICATIONCONTROL,243,Trace...,
+APPLICATIONCONTROL,244,Admin,
+APPLICATIONCONTROL,245,Reference...,
+APPLICATIONCONTROL,246,First Name:,Users first name
+APPLICATIONCONTROL,247,Find...,
+APPLICATIONCONTROL,248,Reference,
+APPLICATIONCONTROL,249,Options...,
+APPLICATIONCONTROL,250,System,
+APPLICATIONCONTROL,251,Recent,
+APPLICATIONCONTROL,252,Reports...,
+APPLICATIONCONTROL,253,New,
+APPLICATIONCONTROL,254,Spelling,
+APPLICATIONCONTROL,255,Reference,
+APPLICATIONCONTROL,256,Username:,Unique login username
+APPLICATIONCONTROL,257,Updated By:,User who last updated this record
+APPLICATIONCONTROL,258,Users...,
+APPLICATIONCONTROL,259,Exit,
+APPLICATIONCONTROL,260,Open...,
+APPLICATIONCONTROL,261,General,
+APPLICATIONCONTROL,262,Active:,
+APPLICATIONCONTROL,263,User ID:,Unique identifier for user
+APPLICATIONCONTROL,264,Refresh,
+APPLICATIONCONTROL,265,Close,
+APPLICATIONCONTROL,266,Paste,
+APPLICATIONCONTROL,267,Created:,Date this record was created
+APPLICATIONCONTROL,268,Tools,
+APPLICATIONCONTROL,269,Admin,
+APPLICATIONCONTROL,270,General,
+APPLICATIONCONTROL,271,OSRMT Help,
+APPLICATIONCONTROL,272,Check for updates,
+APPLICATIONCONTROL,273,New Product...,
+APPLICATIONCONTROL,274,Admin,
+APPLICATIONCONTROL,275,Users...,
+APPLICATIONCONTROL,276,Last Name:,Users given name
+APPLICATIONCONTROL,277,Technical,
+APPLICATIONCONTROL,278,Name,
+APPLICATIONCONTROL,279,Username,
+APPLICATIONCONTROL,280,Position,
+APPLICATIONCONTROL,281,Group,
+APPLICATIONCONTROL,282,Display,
+APPLICATIONCONTROL,283,Description,
+APPLICATIONCONTROL,284,Ref ID:,Unique reference identifier
+APPLICATIONCONTROL,285,Group:,Reference grouping name
+APPLICATIONCONTROL,286,App type:,
+APPLICATIONCONTROL,287,Display code:,Alternate  identifier for this reference item
+APPLICATIONCONTROL,288,Sequence:,Sequence reference will display in
+APPLICATIONCONTROL,289,Display:,Display user will see on forms and reports
+APPLICATIONCONTROL,290,Description:,Full description of the artifact
+APPLICATIONCONTROL,291,Created:,Date this record was created
+APPLICATIONCONTROL,292,Created by:,User who created this record
+APPLICATIONCONTROL,293,Updated:,Date this record was last updated
+APPLICATIONCONTROL,294,Updated by:,User who last updated this record
+APPLICATIONCONTROL,295,Update count:,Number of times the record has been updated
+APPLICATIONCONTROL,296,Active:,
+APPLICATIONCONTROL,297,Assigned version:,
+APPLICATIONCONTROL,298,Record type:,Type of record
+APPLICATIONCONTROL,299,Reference,
+APPLICATIONCONTROL,300,Reference,
+APPLICATIONCONTROL,301,Ref ID,
+APPLICATIONCONTROL,302,Group,
+APPLICATIONCONTROL,303,App type,
+APPLICATIONCONTROL,304,Display code,
+APPLICATIONCONTROL,305,Sequence,
+APPLICATIONCONTROL,306,Display,
+APPLICATIONCONTROL,307,Description,
+APPLICATIONCONTROL,308,Created,
+APPLICATIONCONTROL,309,createUserId,
+APPLICATIONCONTROL,310,updateDt,
+APPLICATIONCONTROL,311,updateUserId,
+APPLICATIONCONTROL,312,updateCount,
+APPLICATIONCONTROL,313,Active,
+APPLICATIONCONTROL,314,systemAssignedVersionNbr,
+APPLICATIONCONTROL,315,recordTypeRefId,
+APPLICATIONCONTROL,316,Sequence:,Sequence control will display in
+APPLICATIONCONTROL,317,Text:,
+APPLICATIONCONTROL,318,User defined ID:,Not used
+APPLICATIONCONTROL,319,Format,Not used
+APPLICATIONCONTROL,320,Source:,Not used
+APPLICATIONCONTROL,321,Default value:,Default value for new records
+APPLICATIONCONTROL,322,Locked:,Indicates if the control data may not be changed
+APPLICATIONCONTROL,323,Disabled:,Indicates if the control is unavailable
+APPLICATIONCONTROL,324,Required:,Indicates the field must be completed to submit
+APPLICATIONCONTROL,325,Visible:,Indicates control should be visible
+APPLICATIONCONTROL,326,Initialization:,Script executing when the control is first created
+APPLICATIONCONTROL,327,Focus lost:,Script dynamically executing when the control loses focus
+APPLICATIONCONTROL,328,Focus gained:,Script dynamically executing when the control receives focus
+APPLICATIONCONTROL,329,Image Path:,Path within resources.jar to image
+APPLICATIONCONTROL,330,Grow height:,Indicates the control will grow with available space
+APPLICATIONCONTROL,331,Scrollbars:,Indicates control may need scrollbars
+APPLICATIONCONTROL,332,Column span:,Number of columns to span: 1 or 5 typically
+APPLICATIONCONTROL,333,Created:,Date this record was created
+APPLICATIONCONTROL,334,Created by:,User who created this record
+APPLICATIONCONTROL,335,Updated:,Date this record was last updated
+APPLICATIONCONTROL,336,Updated by:,User who last updated this record
+APPLICATIONCONTROL,337,Update count:,Number of times the record has been updated
+APPLICATIONCONTROL,338,Active:,
+APPLICATIONCONTROL,339,Assigned as of version:,
+APPLICATIONCONTROL,340,Record type:,Type of record
+APPLICATIONCONTROL,341,-,
+APPLICATIONCONTROL,342,User,
+APPLICATIONCONTROL,343,Password,
+APPLICATIONCONTROL,344,Old Password:,Current password
+APPLICATIONCONTROL,345,New Password:,New user password
+APPLICATIONCONTROL,346,Confirm New Password:,Enter your new password again
+APPLICATIONCONTROL,347,Security,
+APPLICATIONCONTROL,348,Level,
+APPLICATIONCONTROL,349,View,
+APPLICATIONCONTROL,350,Artifact,
+APPLICATIONCONTROL,351,Application,
+APPLICATIONCONTROL,352,Read Only,
+APPLICATIONCONTROL,353,Environment:,
+APPLICATIONCONTROL,354,System Log...,Error messages~ warnings~ etc are logged and available from the system log menu
+APPLICATIONCONTROL,355,,Assign views~ applications~ menus~ toolbars etc.
+APPLICATIONCONTROL,356,Export Reference,
+APPLICATIONCONTROL,357,Change Password,
+APPLICATIONCONTROL,358,Product:,
+APPLICATIONCONTROL,359,Report name:,Name of report
+APPLICATIONCONTROL,360,Version:,Version artifact appeared
+APPLICATIONCONTROL,361,Parameters,
+APPLICATIONCONTROL,362,Filter...,
+APPLICATIONCONTROL,363,Version:,Version artifact appeared
+APPLICATIONCONTROL,364,Version:,Version artifact appeared
+APPLICATIONCONTROL,365,Version:,Version artifact appeared
+APPLICATIONCONTROL,366,Version:,Version artifact appeared
+APPLICATIONCONTROL,367,Status:,Artifact status
+APPLICATIONCONTROL,369,Export...,
+APPLICATIONCONTROL,370,Export to:,Browse for file name to overwrite
+APPLICATIONCONTROL,371,Main Flow:,
+APPLICATIONCONTROL,372,Version,
+APPLICATIONCONTROL,373,Requirement Nbr:,Assigned number - unique within product and type of artifact
+APPLICATIONCONTROL,374,Effort:,Estimated effort in FTE hours to implement the feature
+APPLICATIONCONTROL,375,Complexity:,Complexity to implement this feature
+APPLICATIONCONTROL,376,Use Case,
+APPLICATIONCONTROL,377,Origin,Origin of requirement
+APPLICATIONCONTROL,378,Rationale,Reason for requirement
+APPLICATIONCONTROL,379,Assigned,
+APPLICATIONCONTROL,380,Author,
+APPLICATIONCONTROL,381,Attachments,Right click to upload and attach files or create a hyperlink
+APPLICATIONCONTROL,382,Modification History:,
+APPLICATIONCONTROL,383,Created By:,User who created this record
+APPLICATIONCONTROL,384,Created:,Date this record was created
+APPLICATIONCONTROL,385,Updated By:,User who last updated this record
+APPLICATIONCONTROL,386,Updated:,Date this record was last updated
+APPLICATIONCONTROL,387,History,
+APPLICATIONCONTROL,388,Modification History:,
+APPLICATIONCONTROL,389,Background,
+APPLICATIONCONTROL,390,Category:,Artifact custom type
+APPLICATIONCONTROL,391,Step,
+APPLICATIONCONTROL,392,Goal:,Use case goal
+APPLICATIONCONTROL,393,Context:,Context of use case within the system
+APPLICATIONCONTROL,394,Precondition:,System state needed for use case to execute
+APPLICATIONCONTROL,395,Postcondition:,System state after the use case executes
+APPLICATIONCONTROL,396,Alt Flow:,
+APPLICATIONCONTROL,397,Details:,Discrete data for artifact
+APPLICATIONCONTROL,398,Details,
+APPLICATIONCONTROL,399,New tab,
+APPLICATIONCONTROL,400,Debug,
+APPLICATIONCONTROL,401,Import...,
+APPLICATIONCONTROL,404,Created,
+APPLICATIONCONTROL,406,Created,
+APPLICATIONCONTROL,407,Created,
+APPLICATIONCONTROL,408,Created,
+APPLICATIONCONTROL,411,Created,
+APPLICATIONCONTROL,412,Import file,
+APPLICATIONCONTROL,413,Positions...,
+APPLICATIONCONTROL,414,About...,
+APPLICATIONCONTROL,415,Baseline...,
+APPLICATIONCONTROL,416,Baseline Label:,Unique identifier for this baseline
+APPLICATIONCONTROL,417,Baseline Date:,Unique date for this baseline
+APPLICATIONCONTROL,418,Baselines:,Product baselines
+APPLICATIONCONTROL,419,Label,
+APPLICATIONCONTROL,420,Baseline date,
+APPLICATIONCONTROL,421,Prerequisite:,Dependency to execute the test case
+APPLICATIONCONTROL,422,Category:,Artifact custom type
+APPLICATIONCONTROL,423,Category:,Artifact custom type
+APPLICATIONCONTROL,424,Category:,Artifact custom type
+APPLICATIONCONTROL,425,Category:,Artifact custom type
+APPLICATIONCONTROL,426,Status:,Artifact status
+APPLICATIONCONTROL,427,Status:,Artifact status
+APPLICATIONCONTROL,428,Status:,Artifact status
+APPLICATIONCONTROL,429,Status:,Artifact status
+APPLICATIONCONTROL,430,Category:,Artifact custom type
+APPLICATIONCONTROL,431,Category:,Artifact custom type
+APPLICATIONCONTROL,432,Category:,Artifact custom type
+APPLICATIONCONTROL,433,Category:,Artifact custom type
+APPLICATIONCONTROL,434,Category:,Artifact custom type
+APPLICATIONCONTROL,435,Priority:,Priority to complete
+APPLICATIONCONTROL,436,Priority:,Priority to complete
+APPLICATIONCONTROL,437,Priority:,Priority to complete
+APPLICATIONCONTROL,438,Priority:,Priority to complete
+APPLICATIONCONTROL,439,Priority:,Priority to complete
+APPLICATIONCONTROL,440,Created By:,User who created this record
+APPLICATIONCONTROL,441,Created:,Date this record was created
+APPLICATIONCONTROL,442,Last Update By:,User who last updated this record
+APPLICATIONCONTROL,443,Updated:,Date this record was last updated
+APPLICATIONCONTROL,444,Modification History:,History of all changes to this record
+APPLICATIONCONTROL,445,History,
+APPLICATIONCONTROL,446,Test Data:,Data elements used to execute test
+APPLICATIONCONTROL,447,,
+APPLICATIONCONTROL,448,Steps:,Testing steps
+APPLICATIONCONTROL,449,Expected:,Expected results
+APPLICATIONCONTROL,477,Trace impact...,
+APPLICATIONCONTROL,500,Created By:,User who created this record
+APPLICATIONCONTROL,501,Updated:,Date this record was last updated
+APPLICATIONCONTROL,502,Last Update By:,User who last updated this record
+APPLICATIONCONTROL,503,Modification History:,History of all changes to this record
+APPLICATIONCONTROL,504,History,
+APPLICATIONCONTROL,505,Created By:,User who created this record
+APPLICATIONCONTROL,506,Created:,Date this record was created
+APPLICATIONCONTROL,507,Last Update By:,User who last updated this record
+APPLICATIONCONTROL,508,Updated:,Date this record was last updated
+APPLICATIONCONTROL,511,CreateDt,Date this record was created
+APPLICATIONCONTROL,512,Height:,Enter a value 1-5+.  1 is the standard height.
+APPLICATIONCONTROL,513,Width:,Enter a value either 1~5 or 9.  1 is the standard width
+APPLICATIONCONTROL,514,Grow width:,Enter a value 1-5.  0 is the standard (no growing)
+APPLICATIONCONTROL,515,Grow height:,Enter a vlaue 1-5.  0 is the standard (no grow)
+APPLICATIONCONTROL,516,Model column:,Mapping from the control model to the database field
+APPLICATIONCONTROL,517,Control type:,Type of control - tab~ separator or form control
+APPLICATIONCONTROL,518,Custom control:,Custom control for dynamic forms
+APPLICATIONCONTROL,519,Custom Control:,Custom control name
+APPLICATIONCONTROL,520,Class:,Java class name
+APPLICATIONCONTROL,521,Populate Script:,Script to populate control
+APPLICATIONCONTROL,522,HTML Script:,Script to generate HTML representation of control
+APPLICATIONCONTROL,523,Custom Control,
+APPLICATIONCONTROL,524,Subject:,Brief title of feedback
+APPLICATIONCONTROL,525,Version:,Suggested version for this feedback
+APPLICATIONCONTROL,526,Description:,Description
+APPLICATIONCONTROL,527,Artifacts:,Export artifacts displayed from selection/filter/search OR export ALL product artifacts
+APPLICATIONCONTROL,528,Remove primary key and artifact nbr,Remove the artifact_id and artifact_nbr value from the XML so on import artifacts will not match and will all be added as new
+APPLICATIONCONTROL,529,Export tree structure,Export the requirement tree artifact relationships
+APPLICATIONCONTROL,530,Export traceability,Export the artifact dependencies
+APPLICATIONCONTROL,531,Artifacts,
+APPLICATIONCONTROL,533,Artifacts,
+APPLICATIONCONTROL,534,Import under selected artifact,
+APPLICATIONCONTROL,535,Feature:,Feature name or title
+APPLICATIONCONTROL,561,Design:,Design module name
+APPLICATIONCONTROL,562,Priority:,Priority to complete
+APPLICATIONCONTROL,563,Status:,Artifact status
+APPLICATIONCONTROL,565,Description:,Full description of the artifact
+APPLICATIONCONTROL,570,Design,
+APPLICATIONCONTROL,571,Version:,Version artifact appeared
+APPLICATIONCONTROL,584,Source code:,Source code file name
+APPLICATIONCONTROL,586,Status:,Artifact status
+APPLICATIONCONTROL,588,Description:,Full description of the artifact
+APPLICATIONCONTROL,594,Requirement:,Requirement title
+APPLICATIONCONTROL,596,Priority:,Priority to complete
+APPLICATIONCONTROL,598,Status:,Artifact status
+APPLICATIONCONTROL,600,Description:,Full description of the artifact
+APPLICATIONCONTROL,602,Test Case:,Test case heading
+APPLICATIONCONTROL,604,Purpose:,Purpose of this test case
+APPLICATIONCONTROL,606,Notes:,Notes~ questions and comments on the test case
+APPLICATIONCONTROL,608,Implementation,
+APPLICATIONCONTROL,609,Requirement,
+APPLICATIONCONTROL,610,Test Case,
+APPLICATIONCONTROL,612,Version:,Version artifact appeared
+APPLICATIONCONTROL,630,Version:,Version
+APPLICATIONCONTROL,631,Description:,Full description of the feature
+APPLICATIONCONTROL,689,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,690,Dependencies,
+APPLICATIONCONTROL,691,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,692,Dependencies,
+APPLICATIONCONTROL,695,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,696,Dependencies,
+APPLICATIONCONTROL,697,Dependent on:,Right click on the list to add/remove (selected) relationships for traceability
+APPLICATIONCONTROL,698,Dependencies,
+APPLICATIONCONTROL,724,Subject:,Brief title of feedback
+APPLICATIONCONTROL,725,Version:,Suggested version for this feedback
+APPLICATIONCONTROL,726,Description:,Description
+APPLICATIONCONTROL,734,Subject:,Brief title of feedback
+APPLICATIONCONTROL,735,Version:,Suggested version for this feedback
+APPLICATIONCONTROL,736,Description:,Description
+APPLICATIONCONTROL,744,Subject:,Brief title of feedback
+APPLICATIONCONTROL,745,Version:,Suggested version for this feedback
+APPLICATIONCONTROL,746,Description:,Description
+APPLICATIONCONTROL,754,Subject:,Brief title of feedback
+APPLICATIONCONTROL,755,Version:,Suggested version for this feedback
+APPLICATIONCONTROL,756,Description:,Description
+APPLICATIONCONTROL,906,Main Flow:,
+APPLICATIONCONTROL,908,Requirement Nbr:,Assigned number - unique within product and type of artifact
+APPLICATIONCONTROL,909,Effort:,Estimated effort in FTE hours to implement the feature
+APPLICATIONCONTROL,910,Complexity:,Complexity to implement this feature
+APPLICATIONCONTROL,911,Use Case,
+APPLICATIONCONTROL,912,Origin,Origin of requirement
+APPLICATIONCONTROL,913,Rationale,Reason for requirement
+APPLICATIONCONTROL,914,Assigned,
+APPLICATIONCONTROL,915,Author,
+APPLICATIONCONTROL,916,Attachments,Right click to upload and attach files or create a hyperlink
+APPLICATIONCONTROL,917,Modification History:,
+APPLICATIONCONTROL,918,Created By:,User who created this record
+APPLICATIONCONTROL,919,Created:,Date this record was created
+APPLICATIONCONTROL,920,Updated By:,User who last updated this record
+APPLICATIONCONTROL,921,Updated:,Date this record was last updated
+APPLICATIONCONTROL,922,History,
+APPLICATIONCONTROL,923,Modification History:,
+APPLICATIONCONTROL,924,Background,
+APPLICATIONCONTROL,927,Goal:,Use case goal
+APPLICATIONCONTROL,928,Context:,Context of use case within the system
+APPLICATIONCONTROL,929,Precondition:,System state needed for use case to execute
+APPLICATIONCONTROL,930,Postcondition:,System state after the use case executes
+APPLICATIONCONTROL,931,Alt Flow:,
+APPLICATIONCONTROL,932,Details:,Discrete data for artifact
+APPLICATIONCONTROL,933,Details,
+APPLICATIONCONTROL,934,New tab,
+APPLICATIONCONTROL,956,Prerequisite:,Dependency to execute the test case
+APPLICATIONCONTROL,957,Category:,Artifact custom type
+APPLICATIONCONTROL,958,Category:,Artifact custom type
+APPLICATIONCONTROL,959,Category:,Artifact custom type
+APPLICATIONCONTROL,975,Created By:,User who created this record
+APPLICATIONCONTROL,976,Created:,Date this record was created
+APPLICATIONCONTROL,977,Last Update By:,User who last updated this record
+APPLICATIONCONTROL,978,Updated:,Date this record was last updated
+APPLICATIONCONTROL,979,Modification History:,History of all changes to this record
+APPLICATIONCONTROL,980,History,
+APPLICATIONCONTROL,981,Test Data:,Data elements used to execute test
+APPLICATIONCONTROL,983,Steps:,Testing steps
+APPLICATIONCONTROL,984,Expected:,Expected results
+APPLICATIONCONTROL,1035,Created By:,User who created this record
+APPLICATIONCONTROL,1036,Updated:,Date this record was last updated
+APPLICATIONCONTROL,1037,Last Update By:,User who last updated this record
+APPLICATIONCONTROL,1040,Created By:,User who created this record
+APPLICATIONCONTROL,1041,Created:,Date this record was created
+APPLICATIONCONTROL,1042,Last Update By:,User who last updated this record
+APPLICATIONCONTROL,1043,Updated:,Date this record was last updated
+APPLICATIONCONTROL,1044,Modification History:,History of all changes to this record
+APPLICATIONCONTROL,1045,History,
+APPLICATIONCONTROL,1046,CreateDt,Date this record was created
+APPLICATIONCONTROL,1047,File name:,File name in the client\reports directory e.g. test.jasper
+APPLICATIONCONTROL,1048,SQL:,SQL executed for report
+APPLICATIONCONTROL,1049,Active:,Active or inactivate to remove report.  Leave blank to use SQL embedded in the report.
+APPLICATIONCONTROL,1050,SQL report,
+APPLICATIONCONTROL,1051,View,
+APPLICATIONCONTROL,1052,Change Control...,
+APPLICATIONCONTROL,1053,Traceability...,
+APPLICATIONCONTROL,1054,Traceability,
+APPLICATIONCONTROL,1055,Change control,
+APPLICATIONCONTROL,1056,New,New change control item
+APPLICATIONCONTROL,1057,Print,Print select change control items
+APPLICATIONCONTROL,1058,Refresh,Refresh change control list
+APPLICATIONCONTROL,1059,File,
+APPLICATIONCONTROL,1060,New...,New change control item
+APPLICATIONCONTROL,1061,Refresh,Refresh change control list
+APPLICATIONCONTROL,1062,Print...,Print selected change control items
+APPLICATIONCONTROL,1063,Close,Close change control view
+APPLICATIONCONTROL,1064,Edit,
+APPLICATIONCONTROL,1065,Item...,Edit change control item
+APPLICATIONCONTROL,1066,Find...,Find a change control item
+APPLICATIONCONTROL,1067,Change #,Change control request number
+APPLICATIONCONTROL,1068,Status,Change control request status
+APPLICATIONCONTROL,1069,Opened,Date change control request was opened
+APPLICATIONCONTROL,1070,Version,Product version change is for
+APPLICATIONCONTROL,1071,Change request,Title of the change control request
+APPLICATIONCONTROL,1072,Severity,Severity of problem change is addressing
+APPLICATIONCONTROL,1073,Priority,Priority of the change request
+APPLICATIONCONTROL,1074,Group assigned,Group assigned to change request
+APPLICATIONCONTROL,1075,Assigned,User assigned to change control request
+APPLICATIONCONTROL,1076,Change Request:,Change control request number
+APPLICATIONCONTROL,1077,Product:,Product changed
+APPLICATIONCONTROL,1078,External Ref #:,External identifier for the change
+APPLICATIONCONTROL,1079,Version:,Version change requested for
+APPLICATIONCONTROL,1080,Status:,Status of change request
+APPLICATIONCONTROL,1081,Open Date:,Date change request was opened
+APPLICATIONCONTROL,1082,Change:,Title of change
+APPLICATIONCONTROL,1083,Assigned Group:,Currently assigned group
+APPLICATIONCONTROL,1084,Assigned User:,Currently assigned user
+APPLICATIONCONTROL,1085,Priority:,Priority of change
+APPLICATIONCONTROL,1086,Severity:,Severity of change
+APPLICATIONCONTROL,1087,Submitted by:,Change submitted by
+APPLICATIONCONTROL,1088,Frequency:,Frequency of occurence of issue
+APPLICATIONCONTROL,1089,Description:,Description of change request
+APPLICATIONCONTROL,1090,Attachments:,Right click to attach or link a file
+APPLICATIONCONTROL,1091,Change request,
+APPLICATIONCONTROL,1092,History:,History behind the change
+APPLICATIONCONTROL,1093,Updates:,Update log
+APPLICATIONCONTROL,1094,Change log,
+APPLICATIONCONTROL,1095,Fix by:,Date change must be applied by
+APPLICATIONCONTROL,1096,Effort:,Estimated effort for change
+APPLICATIONCONTROL,1097,Reproducible:,Is issue reproducible
+APPLICATIONCONTROL,1098,Directions:,Directions to reproduce issue
+APPLICATIONCONTROL,1099,Client O/S:,Client operating system issue occurred on
+APPLICATIONCONTROL,1100,Server O/S:,Server operating system
+APPLICATIONCONTROL,1101,External Ref 2:,Second external identifier
+APPLICATIONCONTROL,1102,External Ref 3:,Third external identifier
+APPLICATIONCONTROL,1103,Closed date:,Date change request closed
+APPLICATIONCONTROL,1104,Closed category:,Closed category
+APPLICATIONCONTROL,1105,Closed user:,User closing issue
+APPLICATIONCONTROL,1106,Resolved date:,Date issue was resolved
+APPLICATIONCONTROL,1107,Resolved user:,User resolving issue
+APPLICATIONCONTROL,1108,Resolved category:,Resolved category
+APPLICATIONCONTROL,1109,Resolution,
+APPLICATIONCONTROL,1110,Trace:,Traceabiliy starts with this set of artifacts
+APPLICATIONCONTROL,1111,Artifact:,Type of artifact to trace from
+APPLICATIONCONTROL,1112,Direction:,Trace down with child dependencies or trace up to parents
+APPLICATIONCONTROL,1113,Allow tree cycles:,Allow circular dependencies so an artifact may be repeated in the tree
+APPLICATIONCONTROL,1114,Max tree depth:,Constrain the number of child dependencies
+APPLICATIONCONTROL,1115,Trace to:,Constrain the types of artifacts the tree traces to
+APPLICATIONCONTROL,1116,File,
+APPLICATIONCONTROL,1117,Refresh,Refresh the traceability tree
+APPLICATIONCONTROL,1118,Close,Close the traceability tree
+APPLICATIONCONTROL,1119,Edit,
+APPLICATIONCONTROL,1120,Trace left to right,Create a dependency for the left selected artifacts on the right selected artifacts
+APPLICATIONCONTROL,1121,Untrace,Remove any traceability between all artifacts
+APPLICATIONCONTROL,1122,Print,Generate report for traceability tree
+APPLICATIONCONTROL,1123,Criteria…,Configuration for how the traceability tree is created
+APPLICATIONCONTROL,1124,Trace left to right,Create a trace from left to right for the selected artifacts
+APPLICATIONCONTROL,1125,Untrace,Remove any traces between the selected artifacts
+APPLICATIONCONTROL,1126,Refresh,Refresh the traceability tree
+APPLICATIONCONTROL,1127,Print,Print the traceabililty report
+APPLICATIONCONTROL,1128,Criteria…,Change the criteria for the traceability
+APPLICATIONCONTROL,1129,User group:,User group defined under Admin->Reference
+APPLICATIONCONTROL,1130,User:,User to add to group
+APPLICATIONCONTROL,1131,User Groups…,
+APPLICATIONCONTROL,1132,User,
+APPLICATIONCONTROL,1133,User Group,
+APPLICATIONCONTROL,1134,Init Script:,Initialization script for the view
+APPLICATIONCONTROL,1135,Validation Script:,Validation script (not used)
+APPLICATIONCONTROL,1136,Scripts:,
+APPLICATIONCONTROL,1137,Trace right to left,Create a trace from right to left for the selected artifacts
+APPLICATIONCONTROL,1138,Trace right to left,Create a dependency for the right selected artifacts on the left selected artifacts
+APPLICATIONCONTROL,1139,Move up,Move artifact up in child sequence
+APPLICATIONCONTROL,1140,Move down,Move artifact down in child sequence
+APPLICATIONCONTROL,1141,Move up,
+APPLICATIONCONTROL,1142,Move down,
+APPLICATIONCONTROL,1143,Short date format:,Display format for short dates without times
+APPLICATIONCONTROL,1144,Long date format:,Display format for long date and time
+APPLICATIONCONTROL,1145,Artifact long name:,Display artifact type (first character)~ artifact nbr and name for traceability
+APPLICATIONCONTROL,1146,Formatting,
+APPLICATIONCONTROL,1147,Options…,System settings
+APPLICATIONCONTROL,1148,LDAP Initial Context factory:,LDAP Initial Context Factory
+APPLICATIONCONTROL,1149,LDAP Provider URL:,LDAP Provider URL e.g. ldap://ldap:389
+APPLICATIONCONTROL,1150,LDAP Security Authentication:,LDAP Security Authentication e.g. com.sun.jndi.ldap.LdapCtxFactory
+APPLICATIONCONTROL,1151,OSRMT Authentication:,Database or LDAP e.g. simple
+APPLICATIONCONTROL,1152,Authentication,
+APPLICATIONCONTROL,1153,Storage directory:,Storage directory e.g. schema
+APPLICATIONCONTROL,1154,Miscellaneous,
+APPLICATIONCONTROL,1155,Select Script:,Script to retrieve the artifacts
+APPLICATIONCONTROL,1156,Sort Script:,Script to sort two artifacts.  References to m1 and m2
+APPLICATIONCONTROL,1157,Field Script:,Script to generate the xml per selected record
+APPLICATIONCONTROL,1158,Image Script:,Regular expression to qualify the file name for attached images
+APPLICATIONCONTROL,1159,XML report,
+APPLICATIONCONTROL,1160,XML report:,Click this and fill out the XML report tab to generate an XML report
+APPLICATIONCONTROL,1161,XPath Query,XPath query e.g. /artifactlist/artifact
+APPLICATIONCONTROL,1162,Report Directory:,Directory the file is stored e.g. reports/ in such that directory+filename is a valid path to the report file
+APPLICATIONCONTROL,1163,Document,Document content for this feature
+APPLICATIONCONTROL,1164,Document,
+APPLICATIONCONTROL,1165,Open product,Open an alternate product to trace to
+APPLICATIONCONTROL,1166,New Artifact…,Create a new system wide artifact
+APPLICATIONCONTROL,1167,Display immediate child artifacts in list,Display the immediate child artifacts only in the artifact list when selecting a parent artifact
+APPLICATIONCONTROL,1168,Username format "<first> <last>",Override username display format with firstname space last name
+APPLICATIONCONTROL,1201,User group:,User group defined under Admin->Reference
+APPLICATIONCONTROL,1202,Project:,Project to add to group
+APPLICATIONCONTROL,1203,Projects…,Administer user group access for projects
+APPLICATIONCONTROL,1204,User Group,User group with project access
+APPLICATIONCONTROL,1205,Product,Product
+APPLICATIONCONTROL,1206,Product user group security,Restrict product access to user groups
+APPLICATIONCONTROL,1207,Date of last outline:,Date that the outline was last generated
+APPLICATIONCONTROL,1208,Outline sql:,SQL to determine which artifacts qualify to have an outline created
+APPLICATIONCONTROL,1209,Outline script:,Script executed to determine the outline based upon parameters list~ artifact where list is List<Integer>
+APPLICATIONCONTROL,1210,Report Outline,
+APPLICATIONCONTROL,1211,Reason,
+APPLICATIONCONTROL,1212,New Field…,Create a new field on the artifact form
+APPLICATIONCONTROL,1213,Baseline Storage Dir:,Directory where basline artifacts attachments will have a copy of files placed
+APPLICATIONCONTROL,1214,Products:,products
+APPLICATIONCONTROL,1215,Report Parameter Form,View used to display the parameters for the report.
+APPLICATIONCONTROL,4713886,Document,
+APPLICATIONCONTROL,4746854,Attachments:,
+APPLICATIONCONTROL,6904452,Password,
+APPLICATIONCONTROL,10911385,Document,Document content for this requirement
